@@ -1,36 +1,13 @@
 {
   "vite/modulepreload-polyfill": [],
-  "locales/ar.yml": [],
-  "locales/de.yml": [],
-  "locales/en.yml": [],
-  "locales/es.yml": [],
-  "locales/fr.yml": [],
-  "locales/id.yml": [],
-  "locales/it.yml": [],
-  "locales/ja.yml": [],
-  "locales/ko.yml": [],
-  "locales/pl.yml": [],
-  "locales/pt-BR.yml": [],
-  "locales/ru.yml": [],
-  "locales/tr.yml": [],
-  "locales/vi.yml": [],
-  "locales/zh-CN.yml": [],
-  "node_modules/.pnpm/@intlify+shared@9.1.10/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
-  "node_modules/.pnpm/@intlify+message-resolver@9.1.10/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [],
-  "node_modules/.pnpm/@intlify+runtime@9.1.10/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [],
-  "node_modules/.pnpm/@intlify+message-compiler@9.1.10/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
-  "node_modules/.pnpm/@intlify+devtools-if@9.1.10/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
-  "node_modules/.pnpm/@intlify+core-base@9.1.10/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
-  "node_modules/.pnpm/@vue+shared@3.2.33/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
-  "node_modules/.pnpm/@vue+reactivity@3.2.33/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
-  "node_modules/.pnpm/@vue+runtime-core@3.2.33/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
-  "node_modules/.pnpm/@vue+runtime-dom@3.2.33/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
-  "node_modules/.pnpm/vue-i18n@9.1.10_vue@3.2.33/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
-  "src/modules/i18n.ts": [],
   "\u0000commonjsHelpers.js": [],
   "\u0000C:/Users/Jeen/Desktop/rh/pokeman-blog/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
   "src/modules/nprogress.ts": [],
+  "node_modules/.pnpm/@vue+shared@3.2.33/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+reactivity@3.2.33/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.33/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.33/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
   "node_modules/.pnpm/vue-demi@0.12.5_vue@3.2.33/node_modules/vue-demi/lib/index.mjs": [],
   "node_modules/.pnpm/pinia@2.0.13_ytvqwwdyss532bvoq2clv4ed5m/node_modules/pinia/dist/pinia.esm-browser.js": [],
   "src/modules/pinia.ts": [],
@@ -44,7 +21,9 @@
   "node_modules/.pnpm/@vueuse+core@8.3.1_vue@3.2.33/node_modules/@vueuse/core/index.mjs": [],
   "src/composables/dark.ts": [],
   "src/components/Footer.vue": [],
+  "src/components/Header.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
   "plugin-vue:export-helper": [],
+  "src/components/Header.vue": [],
   "src/layouts/default.vue": [],
   "../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
   "src/App.vue": [],
@@ -55,58 +34,70 @@
   "../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.11d0731d.js-unocss-hash.css": [],
+  "assets/app.2dff090f.js-unocss-hash.css": [],
   "src/layouts/404.vue": [
-    "/assets/404.5d0a5d2b.js"
+    "/assets/404.350a3280.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.064cc44e.js"
+    "/assets/home.ac05d762.js"
+  ],
+  "../../../../../@vite-plugin-pages/route-block": [
+    "/assets/_...all_.d7419e0f.js"
+  ],
+  "src/pages/[...all].vue": [
+    "/assets/_...all_.d7419e0f.js"
   ],
   "src/assets/hex-editor.png": [
-    "/assets/concept.7ce86e25.js",
+    "/assets/binary-vs-decomp.13a69fd8.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/assets/gba.drawio.png": [
-    "/assets/concept.7ce86e25.js",
+    "/assets/binary-vs-decomp.13a69fd8.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/assets/gba-hack.drawio.png": [
-    "/assets/concept.7ce86e25.js",
+    "/assets/binary-vs-decomp.13a69fd8.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/assets/gba-decomp.drawio.png": [
-    "/assets/concept.7ce86e25.js",
+    "/assets/binary-vs-decomp.13a69fd8.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
-  "src/pages/concept.md": [
-    "/assets/concept.7ce86e25.js",
+  "src/pages/concept/binary-vs-decomp.md": [
+    "/assets/binary-vs-decomp.13a69fd8.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/components/Tip.vue?vue&type=style&index=0&lang.css": [
-    "/assets/Tip.8bd9ea82.js",
+    "/assets/Tip.6ba8de8c.js",
     "/assets/Tip.44645c25.css"
   ],
   "src/components/Tip.vue": [
-    "/assets/Tip.8bd9ea82.js",
+    "/assets/Tip.6ba8de8c.js",
     "/assets/Tip.44645c25.css"
   ],
+  "src/pages/concept/index.md": [
+    "/assets/index.527e4406.js"
+  ],
+  "src/pages/getting-started/index.md": [
+    "/assets/index.b0b285ce.js"
+  ],
   "src/assets/search_wsl.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -119,7 +110,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/wsl.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -132,7 +123,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/start_wsl.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -145,7 +136,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/first_time_wsl.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -158,7 +149,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/setup_password.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -171,7 +162,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/vscode.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -184,7 +175,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/vscode_setup.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -197,7 +188,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/vscode_final.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -210,7 +201,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/install-agbcc.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -223,7 +214,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/buildok.png": [
-    "/assets/getting-started.d42854f4.js",
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -235,8 +226,8 @@
     "/assets/install-agbcc.7b9bcc77.png",
     "/assets/buildok.698540be.png"
   ],
-  "src/pages/getting-started.md": [
-    "/assets/getting-started.d42854f4.js",
+  "src/pages/getting-started/installation.md": [
+    "/assets/installation.ca607165.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -248,13 +239,10 @@
     "/assets/install-agbcc.7b9bcc77.png",
     "/assets/buildok.698540be.png"
   ],
-  "src/pages/preparation.md": [
-    "/assets/preparation.0148ba6e.js"
+  "src/pages/getting-started/preparation.md": [
+    "/assets/preparation.b768775e.js"
   ],
-  "../../../../../@vite-plugin-pages/route-block": [
-    "/assets/_...all_.b99d5ca9.js"
-  ],
-  "src/pages/[...all].vue": [
-    "/assets/_...all_.b99d5ca9.js"
+  "src/pages/tutorial/index.md": [
+    "/assets/index.5bc26946.js"
   ]
 }
