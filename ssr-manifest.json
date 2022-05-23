@@ -34,70 +34,70 @@
   "../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.b7892d63.js-unocss-hash.css": [],
+  "assets/app.c0115a6b.js-unocss-hash.css": [],
   "src/layouts/404.vue": [
-    "/assets/404.d3a1bc04.js"
+    "/assets/404.06cd1213.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.1075a7fe.js"
+    "/assets/home.6e67e7f3.js"
   ],
   "../../../../../@vite-plugin-pages/route-block": [
-    "/assets/_...all_.d497a3b9.js"
+    "/assets/_...all_.edb62fd1.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.d497a3b9.js"
+    "/assets/_...all_.edb62fd1.js"
   ],
   "src/assets/hex-editor.png": [
-    "/assets/binary-vs-decomp.a6d07a5c.js",
+    "/assets/binary-vs-decomp.50baa21f.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/assets/gba.drawio.png": [
-    "/assets/binary-vs-decomp.a6d07a5c.js",
+    "/assets/binary-vs-decomp.50baa21f.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/assets/gba-hack.drawio.png": [
-    "/assets/binary-vs-decomp.a6d07a5c.js",
+    "/assets/binary-vs-decomp.50baa21f.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/assets/gba-decomp.drawio.png": [
-    "/assets/binary-vs-decomp.a6d07a5c.js",
+    "/assets/binary-vs-decomp.50baa21f.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/pages/concept/binary-vs-decomp.md": [
-    "/assets/binary-vs-decomp.a6d07a5c.js",
+    "/assets/binary-vs-decomp.50baa21f.js",
     "/assets/hex-editor.90039134.png",
     "/assets/gba.drawio.590fdf11.png",
     "/assets/gba-hack.drawio.9ebae6ad.png",
     "/assets/gba-decomp.drawio.ed0e2b99.png"
   ],
   "src/components/Tip.vue?vue&type=style&index=0&lang.css": [
-    "/assets/Tip.1f9df83f.js",
+    "/assets/Tip.efbfd69a.js",
     "/assets/Tip.44645c25.css"
   ],
   "src/components/Tip.vue": [
-    "/assets/Tip.1f9df83f.js",
+    "/assets/Tip.efbfd69a.js",
     "/assets/Tip.44645c25.css"
   ],
   "src/pages/concept/index.md": [
-    "/assets/index.5d0d8671.js"
+    "/assets/index.bc82cb6a.js"
   ],
   "src/pages/getting-started/index.md": [
-    "/assets/index.373c6d55.js"
+    "/assets/index.56c2a852.js"
   ],
   "src/assets/search_wsl.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -110,7 +110,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/wsl.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -123,7 +123,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/start_wsl.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -136,7 +136,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/first_time_wsl.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -149,7 +149,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/setup_password.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -162,7 +162,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/vscode.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -175,7 +175,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/vscode_setup.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -188,7 +188,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/vscode_final.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -201,7 +201,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/install-agbcc.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -214,7 +214,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/assets/buildok.png": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -227,7 +227,7 @@
     "/assets/buildok.698540be.png"
   ],
   "src/pages/getting-started/installation.md": [
-    "/assets/installation.269a937a.js",
+    "/assets/installation.3b251a27.js",
     "/assets/search_wsl.0fd3a175.png",
     "/assets/wsl.d9f30b3d.png",
     "/assets/start_wsl.e922dbbb.png",
@@ -240,9 +240,56 @@
     "/assets/buildok.698540be.png"
   ],
   "src/pages/getting-started/preparation.md": [
-    "/assets/preparation.374b3fb1.js"
+    "/assets/preparation.faf0cd4a.js"
+  ],
+  "src/assets/vscode-c.png": [
+    "/assets/vscode.e1a2562e.js",
+    "/assets/vscode-c.3ddaa8ab.png",
+    "/assets/vscode-nativedebug.4190fb24.png",
+    "/assets/vscode-task.04e60e69.png",
+    "/assets/task-new.00ab58fc.png"
+  ],
+  "src/assets/vscode-nativedebug.png": [
+    "/assets/vscode.e1a2562e.js",
+    "/assets/vscode-c.3ddaa8ab.png",
+    "/assets/vscode-nativedebug.4190fb24.png",
+    "/assets/vscode-task.04e60e69.png",
+    "/assets/task-new.00ab58fc.png"
+  ],
+  "src/assets/vscode-task.png": [
+    "/assets/vscode.e1a2562e.js",
+    "/assets/vscode-c.3ddaa8ab.png",
+    "/assets/vscode-nativedebug.4190fb24.png",
+    "/assets/vscode-task.04e60e69.png",
+    "/assets/task-new.00ab58fc.png"
+  ],
+  "src/assets/task-new.png": [
+    "/assets/vscode.e1a2562e.js",
+    "/assets/vscode-c.3ddaa8ab.png",
+    "/assets/vscode-nativedebug.4190fb24.png",
+    "/assets/vscode-task.04e60e69.png",
+    "/assets/task-new.00ab58fc.png"
+  ],
+  "src/pages/getting-started/vscode.md": [
+    "/assets/vscode.e1a2562e.js",
+    "/assets/vscode-c.3ddaa8ab.png",
+    "/assets/vscode-nativedebug.4190fb24.png",
+    "/assets/vscode-task.04e60e69.png",
+    "/assets/task-new.00ab58fc.png"
   ],
   "src/pages/tutorial/index.md": [
-    "/assets/index.2350f5f9.js"
+    "/assets/index.45a40337.js"
+  ],
+  "src/assets/latin_normal.png": [
+    "/assets/translation.bf5e0a4b.js"
+  ],
+  "src/assets/newgame.png": [
+    "/assets/translation.bf5e0a4b.js"
+  ],
+  "src/assets/newgamecn.png": [
+    "/assets/translation.bf5e0a4b.js"
+  ],
+  "src/pages/tutorial/translation.md": [
+    "/assets/translation.bf5e0a4b.js"
   ]
 }
